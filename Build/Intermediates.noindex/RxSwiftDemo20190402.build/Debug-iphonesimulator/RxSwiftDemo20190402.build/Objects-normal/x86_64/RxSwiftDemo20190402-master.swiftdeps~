@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "502b4c5c365f9cb4afb329abb689bd92"
+build_time: [1554170523, 261920000]
+inputs:
+  "/Users/mli/Desktop/Develope/Swift/RxSwiftDemo20190402/RxSwiftDemo20190402/MusicViewModel.swift": [1554169820, 0]
+  "/Users/mli/Desktop/Develope/Swift/RxSwiftDemo20190402/RxSwiftDemo20190402/ViewController.swift": !private [1554170523, 0]
+  "/Users/mli/Desktop/Develope/Swift/RxSwiftDemo20190402/RxSwiftDemo20190402/AppDelegate.swift": [1554169267, 0]
+  "/Users/mli/Desktop/Develope/Swift/RxSwiftDemo20190402/RxSwiftDemo20190402/Music.swift": [1554169684, 0]
